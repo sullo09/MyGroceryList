@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText quantity;
     private Button saveButton;
     private DatabaseHandler db;
+    //test comment for github
 
 
     @Override
